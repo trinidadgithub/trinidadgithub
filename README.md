@@ -29,6 +29,11 @@ I've been in the IT for 25 years and continue to be amazed. I enjoy automating t
 
 <a href="https://github.com/trinidadgithub" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trinidadgithub&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
+### Support Me
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+<ul style="list-style-type: none; margin: 0;">
+
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/trinidadmarroquin"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/trinidad.marroquin"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
+</ul>
