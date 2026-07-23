@@ -49,6 +49,15 @@ jobs:
           path: profile/streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Validate generated SVGs
+        run: |
+          if grep -Eiq \
+            'something went wrong|forbidden|resource not accessible|error' \
+            profile/*.svg; then
+            echo "Generated profile SVG contains an error."
+            exit 1
+          fi
+
       - name: Commit updated SVG files
         run: |
           git config user.name "github-actions[bot]"
